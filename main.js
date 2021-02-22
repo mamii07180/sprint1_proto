@@ -1,7 +1,7 @@
 (function(){
     // 設定
     var testTimer;
-    var interval =1000; // 切り替わりの間隔（ミリ秒）
+    var interval =500; // 切り替わりの間隔（ミリ秒）
     var fade_speed = 50;// フェード処理の早さ（ミリ秒）
 
     $("#img").hide();
