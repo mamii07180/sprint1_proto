@@ -34,7 +34,7 @@ body {
 .fade-img-box img {
     position: absolute;
     top: 0;
-    left: 0;
+    left: -20%;
     margin-left: -900px;
     width: 100%;
     height: 100%;
