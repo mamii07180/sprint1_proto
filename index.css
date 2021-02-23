@@ -24,7 +24,7 @@ body {
 .fade-img-box {
     width: 600px;
     height: 1000px;
-    left:-20%;
+    left:20%;
     margin-left: -300px;
     top: 50%;
     margin-top: -500px;
@@ -34,7 +34,7 @@ body {
 .fade-img-box img {
     position: absolute;
     top: 0;
-    left: 20%;
+    left: -20%;
     width: 100%;
     height: 100%;
     object-fit:cover;
